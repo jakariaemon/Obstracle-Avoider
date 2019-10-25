@@ -52,6 +52,7 @@ Bread board
 
 gnd in arduino to a pic in bread board. that males bread board gnd.
 
+![](images/motor%20driver.jpg)
 
 
 
